@@ -17,3 +17,6 @@ nav{
     padding:18px 35px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
+p{
+    align-content: flex-start;
+}
